@@ -1,0 +1,8 @@
+archetype_2025,coors_pa_2026,penalty_2026,ci95,test,fit_group_2025
+Allows hard contact,829,0.023,0.037,A,
+Middle,1613,0.0407,0.0267,A,
+Fly-ball heavy,952,0.0467,0.0363,A,
+Contact manager (low FB + low hard-hit),247,0.0873,0.0668,A,
+,553,0.0474,0.0445,B,Best 2025 fit
+,737,-0.0085,0.0363,B,Middle 2025 fit
+,1682,0.041,0.0272,B,Worst 2025 fit

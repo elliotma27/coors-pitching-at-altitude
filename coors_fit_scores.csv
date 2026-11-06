@@ -1,297 +1,291 @@
 name,role,archetype,road_bip,fb_rate,hard_hit_rate,road_woba,projected_penalty,coors_projected_woba,coors_pa,actual_penalty,fit_rank
-Jhoan Durán,RP,Middle,182,0.151,0.416,0.254,0.014,0.268,4.0,-0.029,1
-Will Vest,RP,Middle,181,0.184,0.416,0.29,0.014,0.304,7.0,-0.011,2
-Abner Uribe,RP,Contact manager (low FB + low hard-hit),166,0.164,0.357,0.254,0.014,0.268,9.0,0.101,3
-Camilo Doval,RP,Middle,158,0.192,0.407,0.28,0.014,0.294,11.0,0.356,4
-Brad Keller,RP,Contact manager (low FB + low hard-hit),169,0.174,0.308,0.253,0.015,0.268,4.0,-0.253,5
-Aaron Ashby,RP,Middle,160,0.144,0.412,0.29,0.015,0.305,,,6
-Brendon Little,RP,Allows hard contact,155,0.142,0.477,0.302,0.015,0.317,,,7
-Gregory Soto,RP,Contact manager (low FB + low hard-hit),172,0.244,0.384,0.332,0.015,0.347,,,8
-José Soriano,SP,Allows hard contact,481,0.123,0.489,0.323,0.015,0.339,,,9
-Aaron Bummer,RP,Middle,155,0.161,0.394,0.317,0.016,0.332,,,10
-Bryan Abreu,RP,Allows hard contact,154,0.247,0.461,0.277,0.016,0.293,3.0,-0.277,11
-Tylor Megill,SP,Allows hard contact,160,0.244,0.448,0.318,0.016,0.334,21.0,-0.023,12
-Yoshinobu Yamamoto,SP,Middle,390,0.222,0.4,0.255,0.016,0.271,43.0,-0.076,13
-Justin Wrobleski,RP,Allows hard contact,166,0.198,0.484,0.299,0.016,0.316,25.0,0.051,14
-Jordan Hicks,RP,Allows hard contact,212,0.175,0.462,0.379,0.016,0.396,,,15
-Hogan Harris,RP,Middle,177,0.288,0.328,0.295,0.016,0.311,,,16
-Graham Ashcraft,RP,Contact manager (low FB + low hard-hit),187,0.132,0.333,0.327,0.017,0.344,5.0,-0.047,17
-Griffin Jax,RP,Allows hard contact,156,0.209,0.449,0.317,0.017,0.334,3.0,-0.317,18
-Scott Barlow,RP,Middle,174,0.256,0.307,0.313,0.017,0.33,3.0,-0.313,19
-José Buttó,RP,Middle,179,0.238,0.402,0.327,0.017,0.344,15.0,-0.027,20
-David Peterson,SP,Allows hard contact,494,0.162,0.466,0.323,0.017,0.34,,,21
-Joey Cantillo,RP,Middle,251,0.259,0.418,0.303,0.017,0.32,,,22
-Reid Detmers,RP,Allows hard contact,159,0.233,0.428,0.301,0.017,0.318,,,23
-Braxton Ashcraft,RP,Middle,184,0.224,0.391,0.292,0.017,0.309,10.0,0.103,24
-Yennier Cano,RP,Contact manager (low FB + low hard-hit),167,0.18,0.359,0.349,0.017,0.366,,,25
-Jeremiah Estrada,RP,Fly-ball heavy,161,0.305,0.396,0.289,0.018,0.306,6.0,0.52,26
-Cade Smith,RP,Middle,172,0.273,0.372,0.263,0.018,0.28,,,27
-Chris Sale,SP,Fly-ball heavy,285,0.31,0.357,0.281,0.018,0.299,25.0,-0.029,28
-Logan Webb,SP,Middle,559,0.171,0.407,0.314,0.018,0.331,22.0,0.036,29
-Jason Adam,RP,Fly-ball heavy,169,0.308,0.385,0.278,0.018,0.296,,,30
-Jared Koenig,RP,Fly-ball heavy,171,0.335,0.353,0.303,0.018,0.321,4.0,-0.128,31
-Adrián Morejón,RP,Contact manager (low FB + low hard-hit),188,0.201,0.314,0.223,0.018,0.241,7.0,0.134,32
-Brant Hurter,RP,Contact manager (low FB + low hard-hit),164,0.201,0.373,0.321,0.018,0.339,7.0,-0.014,33
-Tarik Skubal,SP,Middle,466,0.275,0.333,0.247,0.018,0.265,,,34
-Caleb Ferguson,RP,Contact manager (low FB + low hard-hit),187,0.187,0.283,0.274,0.018,0.292,,,35
-Jordan Leasure,RP,Fly-ball heavy,153,0.318,0.376,0.32,0.018,0.338,6.0,0.155,36
-Dylan Cease,SP,Fly-ball heavy,412,0.306,0.379,0.325,0.018,0.343,20.0,-0.057,37
-Garrett Whitlock,RP,Contact manager (low FB + low hard-hit),173,0.237,0.364,0.255,0.018,0.273,,,38
-Ryan Helsley,RP,Middle,162,0.241,0.42,0.346,0.018,0.364,,,39
-Framber Valdez,SP,Allows hard contact,535,0.166,0.467,0.307,0.018,0.325,,,40
-Jojo Romero,RP,Contact manager (low FB + low hard-hit),161,0.19,0.362,0.28,0.018,0.298,4.0,-0.055,41
-Cam Schlittler,SP,Middle,183,0.268,0.404,0.294,0.018,0.312,,,42
-Cade Gibson,RP,Contact manager (low FB + low hard-hit),159,0.176,0.377,0.289,0.018,0.307,,,43
-Garrett Crochet,SP,Contact manager (low FB + low hard-hit),507,0.231,0.375,0.278,0.018,0.296,,,44
-Calvin Faucher,RP,Contact manager (low FB + low hard-hit),164,0.232,0.345,0.31,0.018,0.328,5.0,-0.13,45
-Kodai Senga,SP,Middle,298,0.252,0.406,0.33,0.018,0.348,23.0,0.02,46
-Sean Newcomb,RP,Middle,259,0.22,0.425,0.319,0.019,0.338,,,47
-José Ferrer,RP,Allows hard contact,215,0.143,0.433,0.318,0.019,0.337,12.0,0.023,48
-Cristopher Sánchez,SP,Middle,523,0.17,0.402,0.272,0.019,0.29,24.0,0.043,49
-Zack Wheeler,SP,Middle,348,0.284,0.342,0.269,0.019,0.288,,,50
-Carmen Mlodzinski,SP,Middle,289,0.205,0.41,0.321,0.019,0.34,9.0,-0.004,51
-Blake Snell,SP,Contact manager (low FB + low hard-hit),152,0.184,0.349,0.293,0.019,0.311,,,52
-Adrian Houser,SP,Allows hard contact,357,0.209,0.479,0.33,0.019,0.349,29.0,-0.102,53
-Drew Rasmussen,SP,Allows hard contact,415,0.231,0.434,0.277,0.019,0.296,,,54
-Angel Zerpa,RP,Allows hard contact,190,0.163,0.437,0.34,0.019,0.359,,,55
-Jack Flaherty,SP,Fly-ball heavy,427,0.293,0.44,0.321,0.019,0.34,,,56
-Paul Skenes,SP,Middle,454,0.251,0.403,0.254,0.019,0.273,22.0,0.096,57
-J. T. Ginn,SP,Allows hard contact,255,0.208,0.447,0.351,0.019,0.37,,,58
-Clarke Schmidt,SP,Fly-ball heavy,200,0.318,0.355,0.272,0.019,0.291,21.0,0.085,59
-Emmet Sheehan,SP,Fly-ball heavy,162,0.298,0.416,0.253,0.019,0.272,25.0,0.107,60
-Tony Santillan,RP,Allows hard contact,187,0.229,0.453,0.293,0.019,0.312,5.0,0.287,61
-Kris Bubic,SP,Middle,317,0.199,0.394,0.29,0.019,0.309,,,62
-Chris Bassitt,SP,Contact manager (low FB + low hard-hit),502,0.217,0.369,0.334,0.019,0.353,,,63
-Jesús Luzardo,SP,Middle,469,0.255,0.374,0.303,0.019,0.322,23.0,-0.134,64
-Tyler Rogers,RP,Contact manager (low FB + low hard-hit),236,0.129,0.333,0.244,0.019,0.263,4.0,-0.019,65
-Edwin Uceta,RP,Fly-ball heavy,181,0.348,0.37,0.308,0.019,0.327,,,66
-Shawn Armstrong,RP,Fly-ball heavy,183,0.339,0.344,0.232,0.019,0.251,,,67
-Lucas Erceg,RP,Contact manager (low FB + low hard-hit),178,0.191,0.376,0.283,0.019,0.302,,,68
-Jacob Latz,RP,Middle,234,0.265,0.427,0.294,0.019,0.313,,,69
-Clayton Kershaw,SP,Middle,308,0.224,0.424,0.308,0.019,0.327,42.0,-0.069,70
-Freddy Peralta,SP,Fly-ball heavy,428,0.291,0.348,0.277,0.019,0.296,21.0,0.004,71
-Justin Topa,RP,Allows hard contact,187,0.18,0.454,0.319,0.019,0.338,9.0,0.159,72
-Brandon Woodruff,SP,Fly-ball heavy,156,0.333,0.359,0.258,0.019,0.277,,,73
-Clay Holmes,SP,Middle,476,0.183,0.425,0.311,0.019,0.33,27.0,0.089,74
-Hunter Brown,SP,Contact manager (low FB + low hard-hit),441,0.235,0.325,0.267,0.019,0.286,24.0,0.033,75
-Carlos Rodón,SP,Middle,498,0.279,0.394,0.273,0.019,0.293,,,76
-Wandy Peralta,RP,Contact manager (low FB + low hard-hit),204,0.181,0.367,0.301,0.019,0.32,12.0,0.34,77
-Taylor Clarke,RP,Middle,151,0.252,0.411,0.262,0.019,0.281,,,78
-Edward Cabrera,SP,Allows hard contact,371,0.248,0.466,0.311,0.019,0.33,,,79
-Brenan Hanifee,RP,Allows hard contact,199,0.178,0.45,0.333,0.019,0.352,4.0,-0.02,80
-John Schreiber,RP,Middle,181,0.282,0.387,0.318,0.019,0.337,,,81
-Tyler Glasnow,SP,Middle,213,0.286,0.376,0.27,0.019,0.289,,,82
-Shane Baz,SP,Middle,461,0.228,0.395,0.338,0.02,0.357,,,83
-Nathan Eovaldi,SP,Middle,336,0.25,0.387,0.248,0.02,0.268,,,84
-Quinn Priester,SP,Middle,444,0.194,0.399,0.318,0.02,0.337,21.0,0.075,85
-Grant Anderson,RP,Middle,186,0.262,0.387,0.314,0.02,0.334,8.0,-0.089,86
-Max Fried,SP,Contact manager (low FB + low hard-hit),528,0.214,0.375,0.291,0.02,0.311,26.0,-0.016,87
-Huascar Brazobán,RP,Middle,166,0.265,0.353,0.304,0.02,0.323,4.0,0.321,88
-Logan Gilbert,SP,Middle,322,0.286,0.419,0.288,0.02,0.307,,,89
-Trevor Rogers,SP,Allows hard contact,287,0.247,0.488,0.235,0.02,0.255,,,90
-Corbin Burnes,SP,Middle,171,0.193,0.421,0.297,0.02,0.316,,,91
-Shane Smith,SP,Allows hard contact,381,0.283,0.46,0.304,0.02,0.324,20.0,0.116,92
-Luis Ortiz,SP,Allows hard contact,240,0.246,0.483,0.331,0.02,0.351,,,93
-Nick Lodolo,SP,Middle,421,0.276,0.412,0.307,0.02,0.327,24.0,-0.174,94
-John King,RP,Allows hard contact,171,0.188,0.443,0.379,0.02,0.399,7.0,0.035,95
-Rafael Montero,RP,Middle,155,0.261,0.389,0.294,0.02,0.313,3.0,-0.294,96
-Andre Pallante,SP,Middle,511,0.184,0.405,0.349,0.02,0.368,24.0,0.024,97
-Matt Strahm,RP,Fly-ball heavy,157,0.366,0.391,0.27,0.02,0.289,4.0,-0.045,98
-Jason Alexander,SP,Allows hard contact,240,0.246,0.462,0.358,0.02,0.378,,,99
-Kumar Rocker,SP,Allows hard contact,202,0.233,0.48,0.361,0.02,0.381,,,100
-Pete Fairbanks,RP,Allows hard contact,164,0.25,0.433,0.298,0.02,0.317,,,101
-Jacob Lopez,SP,Fly-ball heavy,239,0.339,0.335,0.321,0.02,0.341,,,102
-Lance Mccullers,SP,Allows hard contact,166,0.259,0.5,0.392,0.02,0.412,,,103
-Steven Okert,RP,Fly-ball heavy,163,0.377,0.335,0.238,0.02,0.258,5.0,-0.058,104
-Ian Seymour,SP,Middle,155,0.265,0.381,0.295,0.02,0.315,,,105
-Jacob Degrom,SP,Fly-ball heavy,441,0.333,0.422,0.262,0.02,0.282,,,106
-Luis Gil,SP,Fly-ball heavy,169,0.296,0.426,0.324,0.02,0.344,,,107
-Brad Lord,RP,Middle,377,0.201,0.422,0.325,0.02,0.345,20.0,0.057,108
-Jeff Hoffman,RP,Middle,170,0.271,0.4,0.326,0.02,0.346,,,109
-Cade Cavalli,SP,Middle,157,0.159,0.42,0.367,0.02,0.387,,,110
-Tanner Bibee,SP,Middle,529,0.268,0.371,0.324,0.02,0.344,,,111
-Merrill Kelly,SP,Allows hard contact,512,0.26,0.438,0.297,0.02,0.317,25.0,0.097,112
-Louis Varland,RP,Allows hard contact,190,0.173,0.45,0.312,0.02,0.332,4.0,-0.137,113
-Anthony Banda,RP,Fly-ball heavy,164,0.359,0.388,0.283,0.02,0.304,8.0,0.117,114
-Joey Wentz,RP,Allows hard contact,306,0.275,0.428,0.345,0.02,0.365,,,115
-Jacob Misiorowski,SP,Middle,151,0.285,0.377,0.298,0.02,0.318,,,116
-Orion Kerkering,RP,Middle,167,0.256,0.339,0.323,0.02,0.343,1.0,-0.323,117
-Jorge Alcalá,RP,Fly-ball heavy,164,0.323,0.378,0.402,0.02,0.422,,,118
-Michael Soroka,SP,Fly-ball heavy,240,0.292,0.404,0.308,0.02,0.328,,,119
-Mike Vasil,RP,Contact manager (low FB + low hard-hit),269,0.234,0.385,0.294,0.02,0.314,13.0,-0.048,120
-Tyler Phillips,RP,Allows hard contact,225,0.209,0.436,0.301,0.02,0.321,12.0,-0.138,121
-Landen Roupp,SP,Contact manager (low FB + low hard-hit),324,0.244,0.367,0.338,0.02,0.358,,,122
-Spencer Schwellenbach,SP,Middle,305,0.193,0.416,0.28,0.02,0.3,,,123
-Mike Burrows,SP,Middle,269,0.253,0.42,0.31,0.02,0.33,,,124
-Mackenzie Gore,SP,Fly-ball heavy,414,0.317,0.444,0.325,0.02,0.345,24.0,-0.071,125
-Carlos Carrasco,SP,Fly-ball heavy,158,0.304,0.437,0.401,0.02,0.421,,,126
-Charlie Morton,SP,Allows hard contact,413,0.252,0.441,0.371,0.02,0.392,,,127
-Bryan Woo,SP,Middle,488,0.27,0.422,0.268,0.02,0.289,,,128
-Aaron Nola,SP,Allows hard contact,274,0.263,0.434,0.352,0.02,0.372,,,129
-Jackson Rutledge,RP,Allows hard contact,228,0.284,0.496,0.388,0.02,0.409,9.0,-0.133,130
-Taj Bradley,SP,Middle,405,0.269,0.4,0.326,0.021,0.347,,,131
-Brady Singer,SP,Middle,476,0.286,0.41,0.32,0.021,0.34,,,132
-Dustin May,SP,Allows hard contact,390,0.264,0.449,0.354,0.021,0.374,,,133
-Daniel Lynch,RP,Allows hard contact,209,0.254,0.431,0.327,0.021,0.348,,,134
-Tommy Kahnle,RP,Contact manager (low FB + low hard-hit),181,0.234,0.375,0.309,0.021,0.33,6.0,0.132,135
-Luis García,RP,Allows hard contact,152,0.186,0.494,0.325,0.021,0.345,5.0,0.175,136
-George Kirby,SP,Allows hard contact,350,0.234,0.44,0.306,0.021,0.327,,,137
-Grant Holmes,SP,Middle,307,0.277,0.42,0.319,0.021,0.34,,,138
-Eduard Bazardo,RP,Fly-ball heavy,202,0.307,0.371,0.26,0.021,0.28,,,139
-Pablo López,SP,Middle,215,0.274,0.353,0.285,0.021,0.306,,,140
-Yusei Kikuchi,SP,Middle,520,0.277,0.423,0.337,0.021,0.358,,,141
-Luke Weaver,RP,Fly-ball heavy,161,0.401,0.401,0.267,0.021,0.287,6.0,0.367,142
-Reese Olson,SP,Allows hard contact,188,0.287,0.452,0.296,0.021,0.317,,,143
-Cade Horton,SP,Fly-ball heavy,321,0.293,0.414,0.278,0.021,0.299,23.0,0.111,144
-Yariel Rodríguez,RP,Middle,185,0.253,0.363,0.286,0.021,0.307,6.0,0.13,145
-Justin Verlander,SP,Fly-ball heavy,464,0.302,0.373,0.335,0.021,0.356,,,146
-Ryan Bergert,SP,Fly-ball heavy,212,0.373,0.368,0.298,0.021,0.319,,,147
-Justin Sterner,RP,Fly-ball heavy,165,0.341,0.389,0.289,0.021,0.31,7.0,-0.06,148
-Carlos Vargas,RP,Contact manager (low FB + low hard-hit),242,0.207,0.36,0.341,0.021,0.362,,,149
-Jack Kochanowicz,SP,Allows hard contact,373,0.236,0.499,0.391,0.021,0.412,,,150
-Cole Sands,RP,Middle,204,0.263,0.421,0.301,0.021,0.322,7.0,0.234,151
-Tristan Beck,RP,Middle,162,0.256,0.384,0.295,0.021,0.317,11.0,0.014,152
-Gavin Williams,SP,Allows hard contact,443,0.269,0.445,0.31,0.021,0.331,,,153
-Bryce Elder,SP,Allows hard contact,470,0.252,0.44,0.342,0.021,0.363,25.0,0.002,154
-Brayan Bello,SP,Middle,502,0.241,0.394,0.315,0.021,0.336,,,155
-Mitch Keller,SP,Allows hard contact,519,0.244,0.438,0.316,0.021,0.337,22.0,0.153,156
-Stephen Kolek,SP,Allows hard contact,320,0.225,0.485,0.308,0.021,0.329,31.0,-0.106,157
-Tyler Mahle,SP,Middle,251,0.267,0.371,0.271,0.021,0.292,,,158
-Bryan King,RP,Contact manager (low FB + low hard-hit),187,0.247,0.363,0.292,0.021,0.313,4.0,-0.067,159
-Ryan Pepiot,SP,Fly-ball heavy,440,0.3,0.43,0.316,0.021,0.337,,,160
-Sean Burke,SP,Fly-ball heavy,390,0.323,0.431,0.357,0.021,0.379,,,161
-Bryce Miller,SP,Allows hard contact,277,0.26,0.491,0.356,0.021,0.378,,,162
-Robert Suarez,RP,Allows hard contact,168,0.27,0.431,0.239,0.021,0.26,6.0,0.245,163
-Ryne Stanek,RP,Fly-ball heavy,162,0.333,0.436,0.337,0.021,0.359,5.0,0.233,164
-Joe Ryan,SP,Fly-ball heavy,430,0.323,0.42,0.301,0.021,0.322,24.0,-0.038,165
-Robbie Ray,SP,Fly-ball heavy,461,0.335,0.452,0.303,0.021,0.324,43.0,0.08,166
-Sandy Alcántara,SP,Allows hard contact,518,0.242,0.451,0.317,0.021,0.338,27.0,0.009,167
-Sonny Gray,SP,Middle,507,0.233,0.408,0.323,0.021,0.345,,,168
-Will Warren,SP,Allows hard contact,459,0.258,0.457,0.336,0.021,0.357,16.0,-0.114,169
-Zac Gallen,SP,Fly-ball heavy,545,0.304,0.432,0.321,0.021,0.343,26.0,0.177,170
-Ben Casparius,RP,Fly-ball heavy,233,0.316,0.321,0.315,0.022,0.337,6.0,0.068,171
-Ben Brown,SP,Allows hard contact,307,0.268,0.476,0.352,0.022,0.374,11.0,0.12,172
-Luis Severino,SP,Middle,511,0.239,0.423,0.325,0.022,0.346,,,173
-Enyel De Los Santos,RP,Middle,186,0.267,0.403,0.318,0.022,0.34,6.0,-0.168,174
-Zebby Matthews,SP,Fly-ball heavy,226,0.308,0.392,0.344,0.022,0.366,21.0,0.101,175
-Noah Cameron,SP,Middle,395,0.268,0.375,0.292,0.022,0.313,,,176
-Ronny Henriquez,RP,Fly-ball heavy,164,0.341,0.428,0.273,0.022,0.295,12.0,0.068,177
-Lucas Giolito,SP,Middle,431,0.271,0.413,0.311,0.022,0.333,,,178
-Brandon Pfaadt,SP,Allows hard contact,534,0.239,0.46,0.346,0.022,0.367,48.0,0.043,179
-Simeon Woods Richardson,SP,Fly-ball heavy,315,0.349,0.416,0.316,0.022,0.338,,,180
-Taijuan Walker,SP,Middle,387,0.248,0.416,0.346,0.022,0.367,21.0,0.047,181
-Griffin Canning,SP,Allows hard contact,220,0.223,0.464,0.316,0.022,0.338,,,182
-Logan Evans,SP,Middle,255,0.251,0.427,0.343,0.022,0.365,,,183
-Logan Allen,SP,Contact manager (low FB + low hard-hit),482,0.237,0.378,0.339,0.022,0.361,,,184
-Spencer Bivens,RP,Contact manager (low FB + low hard-hit),242,0.21,0.379,0.328,0.022,0.35,12.0,0.114,185
-Janson Junk,SP,Allows hard contact,351,0.251,0.476,0.301,0.022,0.323,,,186
-Tyler Holton,RP,Contact manager (low FB + low hard-hit),227,0.242,0.383,0.295,0.022,0.317,,,187
-Eduardo Rodríguez,SP,Contact manager (low FB + low hard-hit),465,0.241,0.355,0.365,0.022,0.387,27.0,-0.098,188
-Jack Dreyer,RP,Fly-ball heavy,191,0.293,0.405,0.245,0.022,0.267,15.0,0.162,189
-Jonathan Cannon,SP,Fly-ball heavy,311,0.303,0.456,0.371,0.022,0.393,25.0,0.015,190
-Hunter Dobbins,SP,Middle,190,0.2,0.421,0.329,0.022,0.351,,,191
-Eury Pérez,SP,Fly-ball heavy,233,0.373,0.467,0.296,0.022,0.318,17.0,-0.19,192
-Greg Weissert,RP,Middle,195,0.282,0.39,0.297,0.022,0.319,,,193
-Lake Bachar,RP,Fly-ball heavy,182,0.29,0.419,0.308,0.022,0.33,6.0,-0.308,194
-Jameson Taillon,SP,Fly-ball heavy,391,0.325,0.386,0.301,0.022,0.324,,,195
-Mike King,SP,Fly-ball heavy,202,0.302,0.381,0.315,0.022,0.337,,,196
-Hayden Birdsong,SP,Fly-ball heavy,169,0.305,0.471,0.353,0.022,0.375,26.0,-0.049,197
-Andrew Abbott,SP,Fly-ball heavy,472,0.333,0.341,0.292,0.022,0.314,21.0,0.175,198
-Nick Martínez,SP,Middle,510,0.282,0.351,0.321,0.022,0.344,,,199
-Ranger Suarez,SP,Contact manager (low FB + low hard-hit),433,0.249,0.313,0.303,0.022,0.325,29.0,-0.008,200
-Chad Patrick,SP,Fly-ball heavy,330,0.291,0.424,0.313,0.022,0.335,,,201
-Bailey Falter,SP,Fly-ball heavy,387,0.292,0.455,0.329,0.022,0.351,,,202
-Slade Cecconi,SP,Allows hard contact,400,0.282,0.492,0.324,0.022,0.347,,,203
-Brandon Eisert,RP,Fly-ball heavy,195,0.313,0.379,0.359,0.022,0.381,4.0,0.141,204
-Ryan Walker,RP,Contact manager (low FB + low hard-hit),170,0.193,0.364,0.317,0.022,0.339,9.0,-0.178,205
-Hunter Gaddis,RP,Fly-ball heavy,177,0.311,0.395,0.293,0.022,0.316,,,206
-Raisel Iglesias,RP,Fly-ball heavy,170,0.335,0.353,0.269,0.022,0.291,4.0,0.044,207
-Kyle Leahy,RP,Allows hard contact,247,0.217,0.441,0.289,0.022,0.312,15.0,-0.016,208
-Sean Manaea,SP,Allows hard contact,167,0.251,0.431,0.343,0.022,0.366,,,209
-Spencer Strider,SP,Fly-ball heavy,347,0.317,0.429,0.348,0.022,0.37,,,210
-Tim Hill,RP,Allows hard contact,208,0.183,0.455,0.291,0.023,0.314,5.0,-0.041,211
-Yu Darvish,SP,Middle,201,0.289,0.333,0.334,0.023,0.357,,,212
-Casey Mize,SP,Fly-ball heavy,435,0.292,0.426,0.339,0.023,0.362,21.0,-0.194,213
-Brock Burke,RP,Middle,177,0.251,0.419,0.331,0.023,0.354,3.0,-0.331,214
-Jacob Webb,RP,Fly-ball heavy,184,0.364,0.353,0.283,0.023,0.306,,,215
-Emerson Hancock,SP,Middle,284,0.254,0.426,0.346,0.023,0.369,,,216
-Jack Leiter,SP,Fly-ball heavy,424,0.302,0.441,0.304,0.023,0.327,,,217
-Ryan Gusto,SP,Fly-ball heavy,313,0.294,0.46,0.359,0.023,0.382,,,218
-Davis Martin,SP,Allows hard contact,441,0.268,0.447,0.339,0.023,0.362,,,219
-Robert Garcia,RP,Fly-ball heavy,175,0.326,0.349,0.304,0.023,0.327,,,220
-Yoendrys Gómez,SP,Fly-ball heavy,186,0.333,0.376,0.348,0.023,0.371,,,221
-Kenley Jansen,RP,Fly-ball heavy,156,0.436,0.449,0.263,0.023,0.286,,,222
-Brandon Young,SP,Fly-ball heavy,185,0.292,0.427,0.377,0.023,0.4,,,223
-Emilio Pagán,RP,Fly-ball heavy,162,0.39,0.372,0.255,0.023,0.278,8.0,-0.011,224
-Michael Mcgreevy,SP,Middle,292,0.244,0.406,0.33,0.023,0.353,24.0,-0.105,225
-Tanner Banks,RP,Middle,186,0.274,0.374,0.284,0.023,0.307,6.0,-0.284,226
-Matt Boyd,SP,Fly-ball heavy,489,0.308,0.385,0.294,0.023,0.317,25.0,0.02,227
-Hoby Milner,RP,Contact manager (low FB + low hard-hit),211,0.242,0.37,0.313,0.023,0.337,,,228
-Tyler Alexander,RP,Fly-ball heavy,290,0.296,0.401,0.323,0.023,0.346,19.0,0.112,229
-Michael Wacha,SP,Middle,534,0.275,0.35,0.308,0.023,0.331,,,230
-Colton Gordon,SP,Fly-ball heavy,264,0.29,0.41,0.367,0.023,0.39,24.0,0.104,231
-Mitchell Parker,SP,Allows hard contact,557,0.28,0.503,0.351,0.023,0.374,,,232
-Dean Kremer,SP,Middle,507,0.284,0.359,0.315,0.023,0.338,,,233
-Germán Márquez,SP,Allows hard contact,242,0.285,0.485,0.409,0.023,0.433,266.0,0.001,234
-Ryne Nelson,SP,Allows hard contact,418,0.281,0.456,0.287,0.023,0.311,27.0,0.072,235
-Osvaldo Bido,SP,Fly-ball heavy,237,0.377,0.413,0.388,0.023,0.411,22.0,-0.031,236
-Yuki Matsui,RP,Fly-ball heavy,172,0.369,0.375,0.33,0.023,0.354,6.0,-0.33,237
-Eric Lauer,SP,Fly-ball heavy,274,0.352,0.423,0.301,0.023,0.325,24.0,0.005,238
-Steven Wilson,RP,Fly-ball heavy,161,0.364,0.364,0.305,0.023,0.328,4.0,0.008,239
-Jp Sears,SP,Fly-ball heavy,399,0.368,0.397,0.362,0.023,0.385,26.0,-0.031,240
-José Berríos,SP,Middle,477,0.275,0.427,0.331,0.024,0.355,24.0,0.087,241
-Hunter Greene,SP,Fly-ball heavy,241,0.322,0.453,0.267,0.024,0.291,25.0,0.073,242
-Bowden Francis,SP,Fly-ball heavy,201,0.308,0.522,0.386,0.024,0.41,,,243
-Pierce Johnson,RP,Fly-ball heavy,156,0.314,0.428,0.312,0.024,0.335,6.0,-0.312,244
-Jakob Junis,RP,Middle,196,0.26,0.388,0.307,0.024,0.331,,,245
-Ryan Yarbrough,SP,Fly-ball heavy,188,0.314,0.34,0.32,0.024,0.343,,,246
-Jeffrey Springs,SP,Fly-ball heavy,517,0.296,0.373,0.321,0.024,0.344,,,247
-Erick Fedde,SP,Allows hard contact,455,0.269,0.43,0.35,0.024,0.374,16.0,0.247,248
-Nick Pivetta,SP,Fly-ball heavy,441,0.335,0.454,0.256,0.024,0.279,48.0,0.147,249
-Zack Littell,SP,Middle,585,0.279,0.41,0.32,0.024,0.344,,,250
-Colin Rea,SP,Middle,481,0.245,0.414,0.322,0.024,0.345,,,251
-Walker Buehler,SP,Contact manager (low FB + low hard-hit),399,0.241,0.378,0.355,0.024,0.379,,,252
-Matthew Liberatore,SP,Middle,479,0.276,0.413,0.326,0.024,0.35,,,253
-Kevin Gausman,SP,Fly-ball heavy,513,0.298,0.415,0.285,0.024,0.309,27.0,-0.087,254
-Keider Montero,SP,Middle,259,0.275,0.4,0.351,0.024,0.375,27.0,-0.08,255
-Aaron Civale,SP,Fly-ball heavy,306,0.32,0.392,0.333,0.024,0.356,,,256
-Chris Paddack,SP,Allows hard contact,499,0.283,0.457,0.337,0.024,0.361,24.0,0.172,257
-Keegan Akin,RP,Fly-ball heavy,175,0.326,0.417,0.323,0.024,0.347,,,258
-Michael Lorenzen,SP,Middle,433,0.273,0.393,0.343,0.024,0.367,,,259
-Steven Matz,RP,Middle,235,0.217,0.409,0.305,0.024,0.329,,,260
-Seth Lugo,SP,Allows hard contact,420,0.279,0.457,0.337,0.024,0.361,,,261
-Carlos Estévez,RP,Fly-ball heavy,188,0.303,0.383,0.257,0.024,0.281,,,262
-Luis Castillo,SP,Allows hard contact,529,0.287,0.465,0.31,0.024,0.334,,,263
-Bryse Wilson,RP,Fly-ball heavy,173,0.301,0.457,0.424,0.024,0.448,,,264
-Cade Povich,SP,Allows hard contact,324,0.265,0.472,0.36,0.024,0.384,,,265
-Kolby Allard,RP,Middle,206,0.267,0.364,0.302,0.024,0.327,,,266
-Mitch Spence,RP,Allows hard contact,267,0.253,0.43,0.365,0.024,0.39,17.0,-0.059,267
-Patrick Corbin,SP,Middle,474,0.276,0.407,0.332,0.025,0.356,,,268
-Andrew Heaney,SP,Allows hard contact,380,0.278,0.442,0.355,0.025,0.38,18.0,0.203,269
-Trevor Williams,SP,Fly-ball heavy,283,0.307,0.41,0.361,0.025,0.385,,,270
-Dylan Lee,RP,Fly-ball heavy,173,0.335,0.341,0.284,0.025,0.309,,,271
-Kyle Freeland,SP,Allows hard contact,293,0.254,0.474,0.335,0.025,0.36,329.0,0.043,272
-Bryan Baker,RP,Allows hard contact,173,0.283,0.486,0.31,0.025,0.335,,,273
-Kyle Hendricks,SP,Fly-ball heavy,512,0.291,0.345,0.341,0.025,0.366,23.0,-0.184,274
-Dennis Santana,RP,Fly-ball heavy,182,0.344,0.376,0.22,0.025,0.245,10.0,0.57,275
-David Festa,SP,Fly-ball heavy,152,0.342,0.408,0.33,0.025,0.355,,,276
-Antonio Senzatela,SP,Allows hard contact,218,0.249,0.468,0.462,0.025,0.487,329.0,-0.081,277
-Jake Irvin,SP,Allows hard contact,579,0.28,0.473,0.375,0.025,0.4,23.0,-0.132,278
-Brent Suter,RP,Fly-ball heavy,208,0.294,0.332,0.339,0.025,0.364,3.0,-0.339,279
-Jose Quintana,SP,Middle,411,0.273,0.418,0.316,0.025,0.342,,,280
-Martín Pérez,SP,Fly-ball heavy,160,0.319,0.394,0.291,0.026,0.316,,,281
-Max Meyer,SP,Allows hard contact,195,0.246,0.482,0.352,0.026,0.378,,,282
-Tyler Anderson,SP,Fly-ball heavy,435,0.349,0.366,0.352,0.026,0.377,,,283
-Randy Vásquez,SP,Middle,392,0.279,0.393,0.316,0.026,0.342,50.0,0.055,284
-Bailey Ober,SP,Fly-ball heavy,466,0.341,0.393,0.35,0.026,0.376,,,285
-Zach Eflin,SP,Fly-ball heavy,242,0.298,0.409,0.381,0.026,0.407,,,286
-Joe Ross,RP,Allows hard contact,159,0.251,0.437,0.361,0.026,0.387,11.0,-0.084,287
-Tomoyuki Sugano,SP,Middle,523,0.287,0.4,0.349,0.027,0.376,,,288
-Cal Quantrill,SP,Fly-ball heavy,385,0.312,0.447,0.373,0.027,0.4,,,289
-Max Scherzer,SP,Fly-ball heavy,251,0.371,0.382,0.346,0.027,0.373,,,290
-Valente Bellozo,RP,Fly-ball heavy,258,0.383,0.417,0.338,0.027,0.364,6.0,0.746,291
-Nick Mears,RP,Fly-ball heavy,155,0.354,0.437,0.282,0.027,0.309,6.0,-0.282,292
-Tobias Myers,RP,Allows hard contact,165,0.279,0.448,0.33,0.027,0.357,,,293
-José Ureña,SP,Middle,184,0.255,0.402,0.362,0.027,0.39,,,294
-Miles Mikolas,SP,Fly-ball heavy,526,0.31,0.42,0.351,0.027,0.378,,,295
-Shota Imanaga,SP,Fly-ball heavy,419,0.396,0.439,0.296,0.031,0.327,,,296
+Yohan Ramírez,RP,Contact manager (low FB + low hard-hit),196,0.183,0.307,0.291,0.009,0.299,11.0,-0.163,1
+Calvin Faucher,RP,Middle,173,0.179,0.385,0.274,0.01,0.284,8.0,0.151,2
+Didier Fuentes,RP,Middle,175,0.268,0.352,0.282,0.01,0.292,5.0,-0.142,3
+Adrián Morejón,RP,Contact manager (low FB + low hard-hit),202,0.161,0.327,0.26,0.011,0.272,12.0,0.086,4
+Ryan Yarbrough,RP,Fly-ball heavy,190,0.289,0.253,0.299,0.011,0.311,,,5
+Tyler Rogers,RP,Contact manager (low FB + low hard-hit),224,0.152,0.272,0.274,0.012,0.286,,,6
+Dylan Cease,SP,Contact manager (low FB + low hard-hit),362,0.232,0.318,0.259,0.012,0.271,,,7
+Max Fried,SP,Middle,291,0.254,0.302,0.251,0.012,0.262,,,8
+Juan Morillo,RP,Contact manager (low FB + low hard-hit),153,0.206,0.325,0.27,0.012,0.281,10.0,-0.11,9
+Aaron Ashby,RP,Middle,222,0.192,0.402,0.302,0.012,0.314,5.0,0.158,10
+Cade Smith,RP,Fly-ball heavy,155,0.304,0.43,0.249,0.012,0.262,4.0,0.251,11
+Ryan Zeferjahn,RP,Contact manager (low FB + low hard-hit),158,0.222,0.361,0.295,0.012,0.307,,,12
+Cristopher Sánchez,SP,Allows hard contact,567,0.171,0.425,0.304,0.012,0.317,,,13
+Anthony Nunez,RP,Allows hard contact,156,0.25,0.417,0.304,0.013,0.316,,,14
+Jeff Hoffman,RP,Middle,151,0.225,0.371,0.308,0.013,0.321,,,15
+Jacob Misiorowski,SP,Contact manager (low FB + low hard-hit),340,0.246,0.336,0.221,0.013,0.234,29.0,0.043,16
+Hayden Wesneski,SP,Middle,177,0.198,0.401,0.29,0.013,0.303,,,17
+Reynaldo López,SP,Middle,232,0.264,0.362,0.342,0.013,0.355,5.0,-0.022,18
+Steven Cruz,RP,Middle,154,0.231,0.378,0.344,0.013,0.357,3.0,-0.344,19
+Walbert Ureña,SP,Contact manager (low FB + low hard-hit),404,0.22,0.354,0.291,0.013,0.304,,,20
+Yuki Matsui,RP,Middle,150,0.281,0.307,0.265,0.013,0.278,8.0,-0.09,21
+Tyler Alexander,RP,Contact manager (low FB + low hard-hit),220,0.224,0.336,0.318,0.013,0.331,7.0,-0.218,22
+Seranthony Domínguez,RP,Middle,152,0.266,0.335,0.306,0.013,0.319,9.0,-0.106,23
+Zack Wheeler,SP,Contact manager (low FB + low hard-hit),400,0.242,0.352,0.282,0.013,0.295,,,24
+Kyle Hart,RP,Contact manager (low FB + low hard-hit),165,0.233,0.312,0.294,0.013,0.307,13.0,0.102,25
+Chris Sale,SP,Contact manager (low FB + low hard-hit),388,0.247,0.352,0.268,0.013,0.282,27.0,-0.078,26
+Orion Kerkering,RP,Fly-ball heavy,162,0.302,0.315,0.331,0.013,0.344,,,27
+Greg Weissert,RP,Fly-ball heavy,171,0.316,0.304,0.305,0.013,0.319,,,28
+Grant Taylor,RP,Allows hard contact,198,0.268,0.414,0.263,0.013,0.277,,,29
+Louis Varland,RP,Middle,186,0.183,0.371,0.247,0.014,0.26,,,30
+Paul Blackburn,RP,Contact manager (low FB + low hard-hit),232,0.216,0.353,0.268,0.014,0.281,,,31
+J. T. Ginn,SP,Contact manager (low FB + low hard-hit),389,0.244,0.357,0.309,0.014,0.323,,,32
+Jovani Morán,RP,Fly-ball heavy,160,0.306,0.3,0.288,0.014,0.302,,,33
+Riley O'Brien,RP,Allows hard contact,167,0.213,0.432,0.311,0.014,0.325,4.0,-0.086,34
+Jr Ritchie,SP,Allows hard contact,207,0.275,0.42,0.345,0.014,0.358,,,35
+Ryan Weathers,SP,Allows hard contact,381,0.215,0.409,0.315,0.014,0.328,,,36
+Hunter Brown,SP,Middle,267,0.217,0.371,0.302,0.014,0.316,,,37
+Chase Silseth,RP,Fly-ball heavy,155,0.316,0.329,0.324,0.014,0.338,,,38
+George Soriano,RP,Middle,182,0.257,0.399,0.326,0.014,0.341,2.0,0.124,39
+Joey Cantillo,SP,Middle,412,0.268,0.398,0.333,0.014,0.347,22.0,-0.026,40
+Hogan Harris,RP,Contact manager (low FB + low hard-hit),174,0.247,0.339,0.316,0.014,0.331,,,41
+Landen Roupp,SP,Contact manager (low FB + low hard-hit),430,0.23,0.302,0.306,0.014,0.32,,,42
+Drew Rasmussen,SP,Contact manager (low FB + low hard-hit),456,0.235,0.338,0.251,0.014,0.265,,,43
+Dylan Lee,RP,Fly-ball heavy,163,0.343,0.331,0.258,0.014,0.272,6.0,-0.258,44
+Nolan Mclean,SP,Contact manager (low FB + low hard-hit),460,0.243,0.361,0.297,0.014,0.311,,,45
+Huascar Brazobán,RP,Contact manager (low FB + low hard-hit),172,0.23,0.315,0.282,0.014,0.297,10.0,0.053,46
+Tarik Skubal,SP,Contact manager (low FB + low hard-hit),396,0.247,0.354,0.274,0.014,0.289,,,47
+Payton Tolle,SP,Middle,382,0.272,0.348,0.295,0.014,0.309,,,48
+Ranger Suarez,SP,Contact manager (low FB + low hard-hit),401,0.227,0.337,0.291,0.014,0.306,27.0,0.014,49
+Patrick Sandoval,SP,Middle,213,0.268,0.347,0.367,0.014,0.382,,,50
+Logan Webb,SP,Middle,449,0.208,0.392,0.289,0.014,0.303,41.0,0.235,51
+Luis Medina,RP,Fly-ball heavy,176,0.324,0.398,0.31,0.014,0.325,,,52
+Tyler Holton,RP,Middle,218,0.174,0.381,0.32,0.014,0.334,,,53
+Brock Burke,RP,Fly-ball heavy,181,0.326,0.342,0.3,0.015,0.315,8.0,-0.1,54
+Gregory Soto,RP,Contact manager (low FB + low hard-hit),164,0.24,0.335,0.288,0.015,0.303,5.0,0.282,55
+Hunter Gaddis,RP,Fly-ball heavy,170,0.301,0.301,0.306,0.015,0.321,4.0,-0.081,56
+Braydon Fisher,RP,Middle,185,0.254,0.4,0.296,0.015,0.311,,,57
+Blade Tidwell,SP,Middle,162,0.278,0.377,0.303,0.015,0.318,,,58
+Logan Henderson,SP,Fly-ball heavy,240,0.308,0.371,0.253,0.015,0.268,,,59
+Bradgley Rodriguez,RP,Middle,191,0.259,0.305,0.276,0.015,0.291,6.0,0.324,60
+Christian Scott,SP,Fly-ball heavy,273,0.296,0.345,0.308,0.015,0.323,19.0,-0.074,61
+Shane Mcclanahan,SP,Allows hard contact,334,0.275,0.419,0.283,0.015,0.298,,,62
+Raisel Iglesias,RP,Middle,156,0.269,0.378,0.283,0.015,0.298,,,63
+Chris Bassitt,SP,Middle,339,0.245,0.378,0.356,0.015,0.371,,,64
+Luinder Avila,SP,Middle,190,0.26,0.36,0.351,0.015,0.367,15.0,0.125,65
+Shane Drohan,SP,Fly-ball heavy,331,0.3,0.391,0.335,0.015,0.351,24.0,-0.075,66
+Andrew Morris,RP,Middle,221,0.267,0.348,0.318,0.015,0.333,,,67
+Mike King,SP,Middle,491,0.268,0.331,0.295,0.015,0.31,25.0,0.041,68
+Brent Headrick,RP,Middle,196,0.25,0.383,0.294,0.015,0.31,,,69
+Parker Messick,SP,Contact manager (low FB + low hard-hit),497,0.219,0.346,0.277,0.015,0.292,,,70
+Travis Adams,RP,Middle,159,0.283,0.333,0.327,0.015,0.342,,,71
+Brad Lord,RP,Middle,233,0.206,0.378,0.316,0.015,0.331,,,72
+Kyle Bradish,SP,Middle,431,0.246,0.393,0.347,0.015,0.363,23.0,0.057,73
+Jesús Luzardo,SP,Contact manager (low FB + low hard-hit),426,0.226,0.337,0.282,0.015,0.298,24.0,-0.095,74
+Foster Griffin,SP,Middle,489,0.25,0.374,0.322,0.015,0.337,21.0,0.026,75
+Kevin Ginkel,RP,Fly-ball heavy,178,0.288,0.397,0.313,0.015,0.328,10.0,-0.223,76
+José Soriano,SP,Middle,489,0.209,0.378,0.305,0.015,0.321,,,77
+Yoshinobu Yamamoto,SP,Contact manager (low FB + low hard-hit),475,0.229,0.356,0.249,0.015,0.264,,,78
+Cade Cavalli,SP,Allows hard contact,425,0.244,0.409,0.305,0.015,0.321,23.0,-0.057,79
+Clay Holmes,SP,Allows hard contact,294,0.187,0.408,0.279,0.016,0.294,,,80
+Ron Marinaccio,RP,Allows hard contact,169,0.264,0.41,0.374,0.016,0.39,9.0,0.065,81
+José Ferrer,RP,Contact manager (low FB + low hard-hit),204,0.219,0.367,0.35,0.016,0.366,7.0,0.164,82
+Steven Matz,RP,Middle,249,0.257,0.356,0.333,0.016,0.349,5.0,-0.083,83
+Kyle Finnegan,RP,Allows hard contact,186,0.253,0.452,0.38,0.016,0.395,,,84
+Aj Blubaugh,RP,Fly-ball heavy,252,0.345,0.376,0.302,0.016,0.318,9.0,0.409,85
+Camilo Doval,RP,Allows hard contact,169,0.195,0.479,0.33,0.016,0.345,,,86
+Kevin Gausman,SP,Allows hard contact,511,0.243,0.405,0.32,0.016,0.336,,,87
+Tatsuya Imai,SP,Allows hard contact,185,0.276,0.443,0.308,0.016,0.323,,,88
+Griffin Canning,SP,Allows hard contact,250,0.23,0.453,0.357,0.016,0.373,8.0,-0.045,89
+Justin Bruihl,RP,Contact manager (low FB + low hard-hit),244,0.196,0.352,0.311,0.016,0.326,6.0,0.381,90
+David Bednar,RP,Contact manager (low FB + low hard-hit),182,0.209,0.357,0.263,0.016,0.278,,,91
+Spencer Arrighetti,SP,Fly-ball heavy,302,0.318,0.318,0.337,0.016,0.353,,,92
+Mike Burrows,SP,Fly-ball heavy,289,0.286,0.39,0.378,0.016,0.393,23.0,0.014,93
+Stephen Kolek,SP,Middle,174,0.224,0.374,0.334,0.016,0.349,,,94
+Andrew Alvarez,SP,Allows hard contact,287,0.191,0.409,0.301,0.016,0.317,21.0,0.116,95
+Paul Skenes,SP,Middle,436,0.23,0.388,0.3,0.016,0.316,24.0,0.041,96
+Hunter Dobbins,SP,Middle,152,0.27,0.395,0.325,0.016,0.341,,,97
+Gavin Williams,SP,Allows hard contact,421,0.259,0.466,0.295,0.016,0.311,,,98
+Mackenzie Gore,SP,Allows hard contact,492,0.27,0.415,0.314,0.016,0.33,8.0,0.286,99
+Ryan Watson,RP,Middle,213,0.239,0.371,0.311,0.016,0.327,,,100
+Brandon Pfaadt,SP,Contact manager (low FB + low hard-hit),426,0.224,0.35,0.299,0.016,0.315,5.0,0.341,101
+Shohei Ohtani,SP,Contact manager (low FB + low hard-hit),212,0.203,0.34,0.241,0.016,0.257,,,102
+Emmet Sheehan,SP,Fly-ball heavy,283,0.299,0.386,0.322,0.016,0.338,21.0,-0.05,103
+Grant Anderson,RP,Fly-ball heavy,157,0.296,0.371,0.302,0.016,0.318,4.0,-0.127,104
+Tim Hill,RP,Allows hard contact,195,0.149,0.436,0.334,0.016,0.35,,,105
+Bryan King,RP,Contact manager (low FB + low hard-hit),194,0.17,0.366,0.363,0.016,0.379,,,106
+Kevin Kelly,RP,Allows hard contact,195,0.136,0.452,0.26,0.016,0.276,4.0,0.052,107
+Max Meyer,SP,Allows hard contact,271,0.268,0.423,0.292,0.016,0.309,25.0,0.09,108
+David Peterson,SP,Middle,443,0.199,0.4,0.344,0.016,0.36,15.0,-0.117,109
+Jack Kochanowicz,SP,Allows hard contact,204,0.201,0.436,0.345,0.016,0.361,,,110
+Brayan Bello,SP,Middle,367,0.215,0.403,0.326,0.016,0.342,,,111
+Sonny Gray,SP,Middle,460,0.239,0.389,0.299,0.016,0.315,30.0,-0.001,112
+Alex Lange,RP,Allows hard contact,171,0.273,0.438,0.383,0.016,0.399,9.0,0.017,113
+Framber Valdez,SP,Allows hard contact,538,0.184,0.422,0.323,0.016,0.339,,,114
+Eury Pérez,SP,Middle,403,0.277,0.396,0.309,0.016,0.326,22.0,-0.019,115
+Bryan Baker,RP,Middle,155,0.269,0.359,0.241,0.016,0.258,3.0,-0.241,116
+Edward Cabrera,SP,Allows hard contact,224,0.239,0.429,0.359,0.016,0.376,21.0,0.026,117
+Sandy Alcántara,SP,Middle,650,0.25,0.364,0.312,0.016,0.329,26.0,0.118,118
+Matthew Liberatore,SP,Fly-ball heavy,445,0.288,0.425,0.365,0.016,0.381,19.0,-0.102,119
+Robert Gasser,SP,Middle,313,0.275,0.342,0.312,0.016,0.328,,,120
+Troy Melton,SP,Middle,331,0.233,0.384,0.302,0.017,0.319,,,121
+Sean Newcomb,RP,Middle,244,0.225,0.389,0.29,0.017,0.307,,,122
+Jacob Lopez,SP,Fly-ball heavy,372,0.349,0.312,0.35,0.017,0.366,,,123
+Martín Pérez,SP,Contact manager (low FB + low hard-hit),426,0.216,0.352,0.308,0.017,0.324,,,124
+Spencer Miles,RP,Contact manager (low FB + low hard-hit),268,0.198,0.354,0.264,0.017,0.281,,,125
+Ryne Stanek,RP,Middle,165,0.269,0.359,0.313,0.017,0.33,4.0,0.087,126
+Cam Schlittler,SP,Middle,459,0.257,0.388,0.252,0.017,0.269,,,127
+Sean Burke,SP,Fly-ball heavy,456,0.307,0.39,0.307,0.017,0.323,,,128
+Mitch Farris,RP,Allows hard contact,159,0.233,0.453,0.359,0.017,0.375,,,129
+Sean Manaea,SP,Fly-ball heavy,442,0.308,0.429,0.353,0.017,0.37,5.0,0.327,130
+Trevor Mcdonald,SP,Middle,214,0.178,0.383,0.334,0.017,0.351,,,131
+Tyler Mahle,SP,Middle,408,0.269,0.375,0.313,0.017,0.33,21.0,0.08,132
+Ben Brown,SP,Allows hard contact,177,0.254,0.435,0.24,0.017,0.257,,,133
+John Schreiber,RP,Middle,177,0.237,0.384,0.323,0.017,0.34,,,134
+Trey Yesavage,SP,Fly-ball heavy,252,0.298,0.345,0.289,0.017,0.306,,,135
+Jake Bennett,SP,Middle,324,0.274,0.384,0.293,0.017,0.31,21.0,-0.122,136
+Logan Gilbert,SP,Allows hard contact,484,0.283,0.417,0.302,0.017,0.319,,,137
+Michael Soroka,SP,Middle,292,0.277,0.343,0.287,0.017,0.304,50.0,-0.001,138
+Jared Jones,SP,Fly-ball heavy,250,0.284,0.377,0.29,0.017,0.307,12.0,-0.098,139
+Trevor Rogers,SP,Middle,483,0.252,0.365,0.316,0.017,0.333,24.0,-0.047,140
+Brent Suter,RP,Contact manager (low FB + low hard-hit),266,0.214,0.316,0.319,0.017,0.335,,,141
+Tyler Phillips,SP,Allows hard contact,376,0.279,0.423,0.32,0.017,0.337,,,142
+Eduardo Rodríguez,SP,Fly-ball heavy,537,0.292,0.33,0.3,0.017,0.317,50.0,0.067,143
+Peyton Gray,RP,Middle,156,0.256,0.354,0.345,0.017,0.362,12.0,0.013,144
+Merrill Kelly,SP,Allows hard contact,467,0.269,0.417,0.365,0.017,0.382,52.0,-0.171,145
+Matt Festa,RP,Middle,191,0.254,0.383,0.336,0.017,0.353,5.0,-0.336,146
+Shane Baz,SP,Allows hard contact,542,0.271,0.415,0.321,0.017,0.338,,,147
+Drew Anderson,RP,Middle,289,0.246,0.384,0.323,0.017,0.34,,,148
+Joe Ryan,SP,Fly-ball heavy,411,0.292,0.409,0.319,0.017,0.337,,,149
+Brandon Young,SP,Middle,464,0.259,0.399,0.328,0.017,0.345,,,150
+Jack Perkins,SP,Fly-ball heavy,335,0.322,0.367,0.355,0.017,0.372,,,151
+Matt Boyd,SP,Middle,377,0.247,0.377,0.308,0.017,0.325,,,152
+José Alvarado,RP,Contact manager (low FB + low hard-hit),162,0.241,0.321,0.351,0.017,0.368,2.0,-0.001,153
+Chase Burns,SP,Fly-ball heavy,378,0.296,0.392,0.298,0.017,0.315,,,154
+Roki Sasaki,SP,Allows hard contact,312,0.267,0.43,0.332,0.017,0.35,44.0,0.082,155
+Jack Dreyer,RP,Allows hard contact,152,0.278,0.43,0.294,0.017,0.311,17.0,-0.17,156
+Brady Basso,RP,Middle,157,0.255,0.376,0.378,0.017,0.396,,,157
+Bailey Ober,SP,Fly-ball heavy,424,0.328,0.382,0.329,0.017,0.347,,,158
+Andre Pallante,SP,Contact manager (low FB + low hard-hit),493,0.164,0.345,0.317,0.017,0.335,19.0,-0.038,159
+Peter Lambert,SP,Fly-ball heavy,435,0.324,0.359,0.31,0.017,0.328,,,160
+Anthony Kay,SP,Middle,488,0.225,0.398,0.354,0.018,0.372,,,161
+Ian Seymour,RP,Fly-ball heavy,333,0.307,0.372,0.315,0.018,0.332,25.0,0.037,162
+Tim Mayza,RP,Allows hard contact,183,0.22,0.457,0.306,0.018,0.323,6.0,-0.306,163
+Luke Weaver,RP,Fly-ball heavy,151,0.301,0.346,0.264,0.018,0.281,4.0,-0.039,164
+Griffin Jax,SP,Middle,301,0.239,0.399,0.308,0.018,0.326,,,165
+Adrian Houser,SP,Allows hard contact,335,0.246,0.425,0.333,0.018,0.35,25.0,0.119,166
+Reid Detmers,SP,Fly-ball heavy,472,0.299,0.379,0.276,0.018,0.294,,,167
+Kyle Harrison,SP,Middle,320,0.281,0.388,0.346,0.018,0.363,,,168
+Aaron Nola,SP,Middle,489,0.28,0.405,0.353,0.018,0.371,25.0,-0.131,169
+Yusei Kikuchi,SP,Allows hard contact,205,0.21,0.444,0.358,0.018,0.375,,,170
+Tommy Nance,RP,Middle,164,0.22,0.384,0.321,0.018,0.339,,,171
+Germán Márquez,SP,Fly-ball heavy,173,0.335,0.439,0.384,0.018,0.402,,,172
+Wandy Peralta,RP,Contact manager (low FB + low hard-hit),234,0.181,0.362,0.315,0.018,0.332,12.0,0.298,173
+Connor Prielipp,SP,Allows hard contact,351,0.276,0.416,0.323,0.018,0.34,,,174
+Ryan Rolison,RP,Fly-ball heavy,164,0.29,0.391,0.306,0.018,0.324,9.0,-0.029,175
+Steven Okert,RP,Fly-ball heavy,167,0.365,0.365,0.254,0.018,0.272,4.0,0.146,176
+Jojo Romero,RP,Middle,158,0.215,0.399,0.314,0.018,0.332,,,177
+Rhett Lowder,SP,Middle,410,0.277,0.39,0.349,0.018,0.367,18.0,0.298,178
+Carlos Rodón,SP,Fly-ball heavy,205,0.293,0.39,0.266,0.018,0.284,,,179
+Kumar Rocker,SP,Middle,423,0.24,0.401,0.343,0.018,0.361,28.0,-0.172,180
+Taj Bradley,SP,Fly-ball heavy,461,0.293,0.456,0.298,0.018,0.316,,,181
+Rico Garcia,RP,Middle,167,0.257,0.345,0.262,0.018,0.28,6.0,-0.053,182
+Chad Patrick,RP,Fly-ball heavy,287,0.306,0.381,0.306,0.018,0.324,5.0,-0.126,183
+Carmen Mlodzinski,SP,Allows hard contact,386,0.235,0.465,0.324,0.018,0.342,8.0,-0.124,184
+Jake Irvin,SP,Fly-ball heavy,303,0.287,0.449,0.35,0.018,0.368,,,185
+Bryan Hudson,RP,Middle,195,0.262,0.379,0.316,0.018,0.334,,,186
+Michael Petersen,RP,Fly-ball heavy,150,0.305,0.435,0.268,0.018,0.286,5.0,0.132,187
+Connelly Early,SP,Fly-ball heavy,260,0.304,0.404,0.318,0.018,0.336,,,188
+Lake Bachar,RP,Fly-ball heavy,221,0.323,0.341,0.286,0.018,0.304,2.0,-0.286,189
+Gerrit Cole,SP,Allows hard contact,352,0.267,0.443,0.304,0.018,0.322,,,190
+Michael Wacha,SP,Fly-ball heavy,573,0.296,0.371,0.314,0.018,0.333,25.0,-0.034,191
+Taylor Clarke,RP,Middle,212,0.251,0.35,0.265,0.018,0.283,12.0,0.26,192
+Braxton Ashcraft,SP,Allows hard contact,448,0.257,0.42,0.301,0.018,0.32,,,193
+Taylor Rogers,RP,Fly-ball heavy,183,0.317,0.284,0.341,0.018,0.36,,,194
+Casey Legumina,RP,Fly-ball heavy,206,0.286,0.387,0.322,0.018,0.34,13.0,0.063,195
+Bryan Woo,SP,Allows hard contact,465,0.275,0.429,0.288,0.018,0.306,27.0,0.111,196
+Casey Mize,SP,Fly-ball heavy,373,0.314,0.397,0.321,0.018,0.34,24.0,0.095,197
+Mason Fluharty,RP,Fly-ball heavy,166,0.313,0.325,0.281,0.018,0.3,,,198
+Andrew Painter,SP,Middle,380,0.261,0.355,0.344,0.018,0.362,,,199
+Tyler Wells,RP,Fly-ball heavy,183,0.333,0.333,0.256,0.018,0.274,5.0,-0.116,200
+Aaron Civale,SP,Fly-ball heavy,359,0.309,0.404,0.354,0.018,0.372,,,201
+Kodai Senga,RP,Fly-ball heavy,163,0.344,0.393,0.375,0.018,0.393,,,202
+Grayson Rodriguez,SP,Allows hard contact,309,0.278,0.447,0.372,0.018,0.391,,,203
+Brandon Sproat,SP,Fly-ball heavy,231,0.288,0.428,0.358,0.018,0.376,23.0,0.07,204
+Bryce Miller,SP,Fly-ball heavy,310,0.342,0.326,0.316,0.018,0.334,20.0,-0.066,205
+Zac Thornton,SP,Fly-ball heavy,252,0.31,0.413,0.316,0.018,0.335,,,206
+Davis Martin,SP,Allows hard contact,430,0.23,0.453,0.326,0.018,0.344,,,207
+Gage Jump,SP,Middle,278,0.263,0.399,0.349,0.019,0.368,,,208
+Robbie Ray,SP,Fly-ball heavy,428,0.34,0.378,0.322,0.019,0.341,67.0,-0.002,209
+Kyle Leahy,SP,Allows hard contact,407,0.239,0.472,0.326,0.019,0.345,14.0,0.163,210
+Andrew Abbott,SP,Fly-ball heavy,507,0.292,0.396,0.343,0.019,0.362,,,211
+Jacob Webb,RP,Allows hard contact,177,0.253,0.423,0.305,0.019,0.324,6.0,0.328,212
+Cal Quantrill,SP,Middle,330,0.279,0.364,0.281,0.019,0.3,,,213
+Will Warren,SP,Allows hard contact,457,0.23,0.442,0.341,0.019,0.36,,,214
+Max Scherzer,SP,Fly-ball heavy,258,0.326,0.337,0.327,0.019,0.345,,,215
+Tyler Kinley,RP,Fly-ball heavy,151,0.322,0.283,0.291,0.019,0.31,3.0,0.376,216
+George Kirby,SP,Middle,540,0.244,0.404,0.344,0.019,0.363,,,217
+Bubba Chandler,SP,Fly-ball heavy,424,0.29,0.393,0.326,0.019,0.344,26.0,0.059,218
+Noah Cameron,SP,Middle,520,0.283,0.381,0.319,0.019,0.338,,,219
+Bryce Elder,SP,Middle,455,0.266,0.402,0.322,0.019,0.34,,,220
+Luis Severino,SP,Middle,171,0.269,0.392,0.355,0.019,0.374,,,221
+Daniel Lynch,RP,Middle,268,0.25,0.384,0.309,0.019,0.328,,,222
+Justin Wrobleski,SP,Fly-ball heavy,396,0.318,0.441,0.312,0.019,0.331,29.0,-0.028,223
+Shane Bieber,SP,Allows hard contact,174,0.253,0.46,0.338,0.019,0.357,,,224
+Cody Bradford,SP,Fly-ball heavy,158,0.361,0.392,0.361,0.019,0.38,,,225
+Ryan Gusto,SP,Allows hard contact,274,0.256,0.432,0.346,0.019,0.365,16.0,0.123,226
+Dustin May,SP,Allows hard contact,411,0.253,0.448,0.324,0.019,0.344,,,227
+Jack Leiter,SP,Fly-ball heavy,216,0.313,0.399,0.346,0.019,0.365,24.0,0.004,228
+Jameson Taillon,SP,Fly-ball heavy,260,0.381,0.396,0.363,0.019,0.383,,,229
+Jack Flaherty,SP,Fly-ball heavy,241,0.315,0.461,0.335,0.019,0.354,,,230
+Nick Martínez,SP,Fly-ball heavy,563,0.296,0.33,0.298,0.019,0.317,22.0,-0.037,231
+Ryan Johnson,SP,Fly-ball heavy,308,0.347,0.354,0.34,0.019,0.359,,,232
+Yoendrys Gómez,RP,Fly-ball heavy,182,0.335,0.423,0.321,0.019,0.341,,,233
+Freddy Peralta,SP,Fly-ball heavy,465,0.285,0.376,0.322,0.019,0.342,40.0,0.095,234
+Jakob Junis,RP,Contact manager (low FB + low hard-hit),167,0.237,0.353,0.298,0.019,0.318,6.0,-0.298,235
+Slade Cecconi,SP,Allows hard contact,385,0.268,0.416,0.354,0.019,0.373,,,236
+Patrick Corbin,SP,Allows hard contact,264,0.239,0.424,0.372,0.02,0.391,,,237
+Jt Brubaker,RP,Middle,176,0.257,0.361,0.304,0.02,0.323,13.0,-0.127,238
+Keider Montero,SP,Middle,470,0.274,0.368,0.282,0.02,0.302,,,239
+Emerson Hancock,SP,Fly-ball heavy,399,0.291,0.419,0.308,0.02,0.328,,,240
+Walker Buehler,SP,Middle,422,0.233,0.388,0.32,0.02,0.339,40.0,0.168,241
+Jonathan Loáisiga,RP,Contact manager (low FB + low hard-hit),190,0.178,0.32,0.259,0.02,0.279,8.0,0.053,242
+Jacob Degrom,SP,Allows hard contact,416,0.269,0.452,0.289,0.02,0.308,,,243
+Jeffrey Springs,SP,Fly-ball heavy,452,0.33,0.352,0.369,0.02,0.389,,,244
+Zebby Matthews,SP,Allows hard contact,385,0.268,0.426,0.33,0.02,0.35,,,245
+Janson Junk,SP,Middle,395,0.235,0.385,0.331,0.02,0.35,,,246
+Brady Singer,SP,Allows hard contact,488,0.276,0.447,0.395,0.02,0.414,26.0,-0.179,247
+Cole Sulser,RP,Fly-ball heavy,160,0.306,0.419,0.31,0.02,0.33,,,248
+Andrew Kittredge,RP,Middle,156,0.259,0.377,0.335,0.02,0.355,8.0,0.134,249
+Eduard Bazardo,RP,Fly-ball heavy,198,0.308,0.409,0.358,0.02,0.378,3.0,-0.124,250
+Nathan Eovaldi,SP,Allows hard contact,422,0.249,0.417,0.326,0.02,0.346,,,251
+Tanner Bibee,SP,Fly-ball heavy,550,0.288,0.396,0.323,0.02,0.343,23.0,-0.034,252
+Joel Kuhnel,RP,Middle,150,0.18,0.4,0.355,0.02,0.375,,,253
+Michael Mcgreevy,SP,Allows hard contact,537,0.274,0.419,0.325,0.02,0.345,,,254
+Noah Schultz,SP,Allows hard contact,212,0.283,0.429,0.344,0.02,0.364,,,255
+Mitch Keller,SP,Allows hard contact,363,0.259,0.424,0.34,0.02,0.36,,,256
+Dennis Santana,RP,Fly-ball heavy,160,0.331,0.407,0.329,0.02,0.35,14.0,0.353,257
+Nick Lodolo,SP,Allows hard contact,331,0.263,0.414,0.378,0.02,0.398,,,258
+Shota Imanaga,SP,Fly-ball heavy,477,0.324,0.37,0.314,0.02,0.335,19.0,-0.146,259
+Seth Lugo,SP,Fly-ball heavy,532,0.297,0.432,0.365,0.02,0.385,25.0,-0.017,260
+Randy Dobnak,SP,Allows hard contact,239,0.226,0.414,0.324,0.02,0.344,,,261
+José Suarez,RP,Contact manager (low FB + low hard-hit),183,0.24,0.328,0.364,0.021,0.384,,,262
+Miles Mikolas,SP,Allows hard contact,394,0.265,0.44,0.368,0.021,0.389,18.0,0.082,263
+Grant Holmes,SP,Allows hard contact,442,0.265,0.454,0.314,0.021,0.335,25.0,0.094,264
+Luis Castillo,SP,Fly-ball heavy,423,0.303,0.423,0.371,0.021,0.392,,,265
+Jacob Latz,RP,Fly-ball heavy,160,0.307,0.417,0.213,0.021,0.233,7.0,-0.084,266
+Zac Gallen,SP,Allows hard contact,366,0.27,0.44,0.375,0.021,0.396,,,267
+Erick Fedde,SP,Fly-ball heavy,448,0.299,0.406,0.331,0.021,0.352,,,268
+Randy Vásquez,SP,Allows hard contact,427,0.278,0.433,0.329,0.021,0.35,37.0,-0.077,269
+Kai-Wei Teng,RP,Middle,203,0.244,0.392,0.347,0.021,0.368,7.0,-0.061,270
+Gordon Graceffo,RP,Allows hard contact,222,0.275,0.437,0.263,0.021,0.284,,,271
+Javier Assad,SP,Allows hard contact,281,0.278,0.441,0.305,0.021,0.326,,,272
+Cristian Javier,SP,Fly-ball heavy,182,0.412,0.337,0.337,0.021,0.359,6.0,0.113,273
+Chris Paddack,SP,Fly-ball heavy,201,0.299,0.378,0.387,0.021,0.409,,,274
+Colin Rea,SP,Fly-ball heavy,409,0.289,0.42,0.321,0.021,0.342,26.0,0.237,275
+Enyel De Los Santos,RP,Fly-ball heavy,201,0.313,0.379,0.326,0.021,0.348,13.0,0.047,276
+Eric Lauer,SP,Fly-ball heavy,335,0.386,0.363,0.35,0.021,0.371,22.0,0.025,277
+Jesse Scholtens,SP,Middle,154,0.273,0.364,0.37,0.022,0.392,,,278
+Michael Lorenzen,SP,Allows hard contact,286,0.248,0.465,0.401,0.022,0.422,243.0,0.036,279
+Tobias Myers,RP,Fly-ball heavy,162,0.29,0.456,0.324,0.022,0.346,7.0,0.733,280
+Ryan Feltner,SP,Fly-ball heavy,186,0.295,0.36,0.373,0.022,0.396,291.0,-0.02,281
+Brandon Williamson,SP,Allows hard contact,161,0.28,0.41,0.35,0.022,0.373,,,282
+Ryne Nelson,SP,Fly-ball heavy,277,0.365,0.44,0.342,0.022,0.364,,,283
+Dean Kremer,SP,Fly-ball heavy,247,0.336,0.352,0.317,0.023,0.339,,,284
+Simeon Woods Richardson,SP,Fly-ball heavy,222,0.288,0.446,0.401,0.023,0.424,,,285
+Albert Suárez,RP,Middle,196,0.276,0.393,0.312,0.024,0.336,,,286
+Zack Littell,SP,Fly-ball heavy,424,0.34,0.439,0.368,0.024,0.392,,,287
+Tomoyuki Sugano,SP,Fly-ball heavy,252,0.314,0.434,0.367,0.024,0.391,332.0,-0.017,288
+Kyle Freeland,SP,Fly-ball heavy,240,0.284,0.436,0.396,0.025,0.422,308.0,-0.003,289
+Trevor Richards,RP,Fly-ball heavy,244,0.377,0.414,0.301,0.026,0.327,,,290
